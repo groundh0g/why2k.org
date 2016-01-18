@@ -17,16 +17,17 @@ I'm sure there will be questions about the scholarships and how they're awarded.
 1. Students must bring a laptop on which they have administrative rights. (In rare / limited cases, a loaner laptop may be provided.)
 1. Students must provide for their own travel. Lodging and all meals for the week-long camp are provided.
 
+Additionally, students must apply using the survey at [https://codetopia.typeform.com/to/GJfYNC](https://codetopia.typeform.com/to/GJfYNC). I will not accept applications via other methods, e.g. direct messages or emails.
+
 ## Judging
 
-1. Scholarships are awarded at the sole discretion of [Joseph Hall](http://why2k.org/about.html).
+1. Scholarships are awarded at the sole discretion of [Joseph Hall](http://why2k.org/about.html) and his coworker, Ryanne B.
 1. My decision is primarily based on the response to the following survey questions:
   * Why do you want to attend the camp?
   * Have your parent or guardian tell me a little about you.
   * Is there anything else you'd like me to consider?
-1. I intend for at least one of the two scholarships to be awarded to a female student, assuming there are enough female applicants to consider.
+1. These scholarships are only available to female students who meet the requirements, listed earlier.
 1. In the (very unlikely) event that two candidates are judged to have exactly equal merit, preference will be given to:
-  * Gender - females are underrepresented in Computer Science, and that's the main reason I'm offering the scholarship.
   * Ethnicity - minorities are also underrepresented in Computer Science.
   * Follow-up questions, if I'm still unable to make a clear distinction between the applicants.
 
