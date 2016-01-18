@@ -19,17 +19,29 @@ I'm sure there will be questions about the scholarships and how they're awarded.
 
 Additionally, students must apply using the survey at [https://codetopia.typeform.com/to/GJfYNC](https://codetopia.typeform.com/to/GJfYNC). I will not accept applications via other methods, e.g. direct messages or emails.
 
+## Dates
+
+The summer camp website is can be found on [landryacademy.com](http://landryacademy.com/families1/camps/nc/).
+
+The dates for the game programming camp are June 12 - 18, 2016. Obviously, we will need to make a selection before that so that the winners can make room on their calendars and plan their travel.
+
+[Applications](https://codetopia.typeform.com/to/GJfYNC) must be submitted by the end of day, Friday, April 1st. (Nope. That's not a joke.)
+
+We will select the students over the weekend, and announce the winners on Tuesday, April 5th. Winners will be notified via email.
+
+> **NOTE:** If we haven't been able to make contact with a winner within two weeks (Tuesday, April 19th), we will select a replacement. So be sure to enter your contact information (your email address) correctly when filling out the application.
+
 ## Judging
 
 1. Scholarships are awarded at the sole discretion of [Joseph Hall](http://why2k.org/about.html) and his coworker, Ryanne B.
-1. My decision is primarily based on the response to the following survey questions:
+1. Our decision is primarily based on the response to the following survey questions:
   * Why do you want to attend the camp?
   * Have your parent or guardian tell me a little about you.
   * Is there anything else you'd like me to consider?
 1. These scholarships are only available to female students who meet the requirements, listed earlier.
 1. In the (very unlikely) event that two candidates are judged to have exactly equal merit, preference will be given to:
   * Ethnicity - minorities are also underrepresented in Computer Science.
-  * Follow-up questions, if I'm still unable to make a clear distinction between the applicants.
+  * Follow-up questions, if we are still unable to make a clear distinction between the applicants.
 
 ## Who's Paying for This?
 
