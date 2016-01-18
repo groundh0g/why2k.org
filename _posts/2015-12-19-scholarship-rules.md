@@ -21,7 +21,7 @@ Additionally, students must apply using the survey at [https://codetopia.typefor
 
 ## Dates
 
-The summer camp website is can be found on [landryacademy.com](http://landryacademy.com/families1/camps/nc/).
+The summer camp website can be found on [landryacademy.com](http://landryacademy.com/families1/camps/nc/).
 
 The dates for the game programming camp are June 12 - 18, 2016. Obviously, we will need to make a selection before that so that the winners can make room on their calendars and plan their travel.
 
