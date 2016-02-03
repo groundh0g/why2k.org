@@ -24,7 +24,7 @@ The long version is here:
 
 I realize that there's a strong aversion to terms like "boy" and "girl", especially when you are discussing a group of people in a given profession. This point was made with a touch of humor by Caroline Drucker in her presentation, "*How to Get More Women in Tech*". I'll let you google it. Some of her talk is very candid, open, frank, and blunt. I think it would be a bit of a tangent to dive too deeply into the topic here.
 
-> I have a solution that could increase the number of women in tech dramatically ... If you want to be respected in tech as a woman, don't call yourself a girl. ... And when I say "women", I mean people who have menstruated and pay taxes. If you do both, you're a woman. It's pretty simple.
+> I have a solution that could increase the number of women in tech dramatically ... If you want to be respected in tech as a woman, don't call yourself a girl....
 > 
 > **-- Caroline Drucker** 
 
