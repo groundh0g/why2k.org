@@ -14,7 +14,7 @@ The short version of all of this is:
 * I'm still teaching my [annual summer camp on game programming](http://codetopia.com/camps/).
 * I'm offering scholarships to two young ladies for the camp. Room, board, and tuition included. Travel to [Banner Elk, NC](https://www.google.com/maps/place/Banner+Elk,+NC+28604) not included.
 * The application survey is live. Enter for a chance to win one of the two scholarships at [https://codetopia.typeform.com/to/GJfYNC](https://codetopia.typeform.com/to/GJfYNC).
-* The official rules have been posted. See [the Why2K.org blog]({{ BASE_PATH }}/news/2015/12/19/scholarship-rules/) for details.
+* The official rules have been posted. See [the Why2K.org blog]({{ BASE_PATH }}/news/2015/12/19/scholarship-rules) for details.
 
 The long version is here:
 
